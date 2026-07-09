@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindu-jayasekara&label=Profile%20views&color=0e75b6&style=flat" alt="pasindu-jayasekara" /> </p>
 
 🎓 I'm an undergraduate at the **Department of Industrial Management**, Faculty of Science, University of Kelaniya.  
-🔀 I'm pursuing a degree in **Management and Information Technology**, blending my passion for Information Technology 
+🔀 I'm pursuing a degree in **BSc(Hons) in Information Technology**, blending my passion for Information Technology 
 
 ---
 
